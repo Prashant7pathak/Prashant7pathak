@@ -39,7 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant7pathak&" alt="prashant7pathak" /></p>
 
-From <https://rahuldkjain.github.io/gh-profile-readme-generator/> 
-![image](https://github.com/Prashant7pathak/Prashant7pathak/assets/144862456/7b55c087-d456-449d-82b1-dc1621972588)
+
 
 -->
