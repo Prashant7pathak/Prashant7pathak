@@ -1,5 +1,5 @@
 
-[![MasterHead](https://t3.ftcdn.net/jpg/07/01/30/00/360_F_701300002_93XOhSc4xpsL2h9qGH390y7kB9TyskyU.jpg)]
+![MasterHead](https://t3.ftcdn.net/jpg/07/01/30/00/360_F_701300002_93XOhSc4xpsL2h9qGH390y7kB9TyskyU.jpg)
 
 
 
